@@ -63,15 +63,6 @@ else {
 			<li <?= ($current == 'webinar')?'class="active"':''?>>
 				<a href="index.php?page=webinar"><i class="fa fa-lg fa-fw fa-calendar"></i> <span class="menu-item-parent">Webinar management</span></a>
 			</li>
-			<li <?= ($current == 'tables')?'class="active"':''?>>
-				<a href="index.php?component=tables"><i class="fa fa-lg fa-fw fa-table"></i> <span class="menu-item-parent">UI : Tables</span></a>
-			</li>
-			<li <?= ($current == 'dataTables')?'class="active"':''?>>
-				<a href="index.php?page=dataTables"><i class="fa fa-lg fa-fw fa-table"></i> <span class="menu-item-parent">UI : DataTables</span><span class="badge pull-right inbox-badge">new</span></a>
-			</li>
-			<li <?= ($current == 'buttons')?'class="active"':''?>>
-				<a href="index.php?component=buttons"><i class="fa fa-lg fa-fw fa-desktop"></i> <span class="menu-item-parent">UI : Buttons</span></a>
-			</li>
 		</ul>
 	</nav>
 	<span class="minifyme" data-action="minifyMenu"> 
