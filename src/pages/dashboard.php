@@ -11,7 +11,6 @@
 					<header>
 						<span class="widget-icon"> <i class="fa fa-sliders"></i> </span>
 						<h2>&nbsp;Tools</h2>				
-						
 					</header>
 	
 					<!-- widget div-->
@@ -53,21 +52,6 @@
 										</div>
 									</div>
 								</form>
-								<div class="row clearfix">
-									<div class="col-md-12 column">
-										<hr>
-										<button class="btn btn-default mgt-4">Knowledge</button>
-										<button class="btn btn-default mgt-4">Show client stats</button>
-										<button class="btn btn-default mgt-4">Show pending tests</button>
-										<button class="btn btn-default mgt-4">Show and edit translate</button>
-										<button class="btn btn-default mgt-4">Validate Plugins</button>
-										<button class="btn btn-default mgt-4">Translate Plugins</button>
-										<button class="btn btn-default mgt-4">Show last 24h tests ranking</button>
-										<button class="btn btn-default mgt-4">Webinar date management</button>
-									</div>
-								</div>
-
-
 							</div>
 							<div class="col-md-6 column">
 								<table class="table table-hover">
@@ -263,8 +247,31 @@
 								</thead>
 								<tbody>
 									<tr>
-										<td>#</td>
-										<td>Name</td>
+										<td>1</td>
+										<td>Bonin</td>
+										<td>Identifier</td>
+										<td>Pack</td>
+										<td>Quota</td>
+										<td>Quota PV</td>
+										<td>Quota start date</td>
+										<td>Quota valid until</td>
+										<td>Demo valid until</td>
+										<td>Quota winners</td>
+										<td>Tests Pending/All</td>
+										<td>Creation date</td>
+										<td>Update script</td>
+										<td>JS Local</td>
+										<td>JS Cloudfront</td>
+										<td>Status framework</td>
+										<td>Database</td>
+										<td>Account manager</td>
+										<td>Agencies</td>
+										<td>Support time</td>
+										<td>Exclude IE + meta tag</td>
+									</tr>
+									<tr>
+										<td>2</td>
+										<td>Betari</td>
 										<td>Identifier</td>
 										<td>Pack</td>
 										<td>Quota</td>

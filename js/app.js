@@ -3,6 +3,7 @@ $.root_ = $('body');
  * App setter
  */	
 	setApp = (function(app) {
+		/* START: MENU ACTIONS */
 		app.MenuActions = function(){
 			var menuActions = {
 				// MINIFY MENU
@@ -42,7 +43,7 @@ $.root_ = $('body');
 				e.preventDefault();
 			});  
 		};
-		/* ~ END: SMART ACTIONS */
+		/* END: MENU ACTIONS */
 
 		return app;
 		
