@@ -2,10 +2,7 @@
 <div class="page-footer">
 	<div class="row">
 		<div class="col-xs-12 col-sm-6">
-			<span class="label label-danger">
-				<img src="img/blank.gif" class="flag flag-au" alt="AB Tasty Australia"/>&nbsp;&nbsp;AB Tasty - AUSTRALIA
-			</span>
-			<small class="txt-color-white pull-right">Back-Office © 2015</small>
+			<small class="txt-color-white">Back-Office © 2015</small>
 		</div>
 
 		<div class="col-xs-6 col-sm-6 text-right hidden-xs">
